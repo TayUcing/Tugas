@@ -18,7 +18,8 @@ nav {
   background-image: url(ciberpung.png);
   height: 80px;
   width: 100%;
-
+  margin-top: 0;
+  margin-left: 0;
 }
 
 label.logo {
