@@ -16,10 +16,10 @@ body {
 
 nav {
   background-image: url(ciberpung.png);
+  background-size: cover;
+  top: 0;
   height: 80px;
   width: 100%;
-  margin-top: 0;
-  margin-left: 0;
 }
 
 label.logo {
